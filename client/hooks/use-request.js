@@ -25,7 +25,6 @@ export default ({ url, method, body, onSuccess }) => {
           </ul>
         </div>
       );
-      throw err;
     }
   };
 
